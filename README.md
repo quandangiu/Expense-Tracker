@@ -2,6 +2,8 @@
 
 A modern, offline-first Personal Expense Tracker Android app built with Kotlin, Jetpack Compose, and Room database. The app follows the MVVM architecture pattern and features a premium Material3 design with smooth animations, category-based filtering, and visual spending summaries.
 
+![Uploading Screenshot 2026-04-01 110817.png…]()
+
 ## ✨ Features
 
 | Feature | Description |
